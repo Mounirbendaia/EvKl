@@ -8,7 +8,7 @@ Group A**
 5. SALEH KAWTHAR SHAMSU ALAM 1725298
 
  Name and The assigned tasks </br>
- **Ben Daia Mounir** : venue pages  with its components( local storage + First come first Serve ..) </br>
+ **Ben Daia Mounir** : venue pages </br>
 **Houssou Ahmed** : Venues Screen </br>
 **Barry Elhaj** : welcome screen </br>
  **Mohamed mohamed Ahmed** : Side bar navigation, Drawernavigationroute </br>
