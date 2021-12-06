@@ -1,4 +1,4 @@
-
+/*BARRY ELHADJ MAMADOU ALPHA 1719211*/
 import React from 'react';
 import {StyleSheet, View,TouchableOpacity, Text, SafeAreaView} from 'react-native';
 
