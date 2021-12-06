@@ -59,15 +59,10 @@ const App = () => {
           component={SplashScreen}
           options={{headerShown: false}}
         />
-        <Stack.Screen
-          name="Auth"
-          component={Auth}
-          options={{headerShown: false}}
-        />
+        
         <Stack.Screen
           name="DrawerNavigationRoutes"
           component={DrawerNavigationRoutes}
-          // Hiding header for Navigation Drawer
           options={{headerShown: false}}
         />
         <Stack.Screen 
