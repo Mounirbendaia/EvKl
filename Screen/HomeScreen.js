@@ -1,4 +1,4 @@
-
+/*SALEH KAWTHAR SHAMSU ALAM 1725298*/
 import React from 'react';
 import {  StyleSheet,    View, Text, ScrollView,  Image, TouchableOpacity, KeyboardAvoidingView, } from 'react-native';
 
