@@ -1,4 +1,4 @@
-
+/*MOHAMED MOHAMED AHMED 1733657*/
 import React from 'react';
 import {View, Image, TouchableOpacity} from 'react-native';
 
